@@ -7,3 +7,9 @@
 /Services/OrderService/obj
 /Services/ProductService/obj
 /Services/UserService/obj
+/Gateway/OceletGateway/obj/Debug/net8.0
+/Gateway/OceletGateway/obj
+/Services/OrderService/bin/Debug/net8.0
+/Services/ProductService/bin/Debug/net8.0/cs
+/Services/ProductService/bin/Debug/net8.0
+/Services/UserService/bin/Debug/net8.0
